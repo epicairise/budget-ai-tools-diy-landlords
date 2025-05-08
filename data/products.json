@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Hemlane",
+    "slug": "hemlane",
+    "description": "All-in-one property management with AI-powered leasing, rent collection, and maintenance coordination for busy landlords.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/hemlane.jpg",
+    "target_audience_match": "Ideal for hands-on landlords juggling everything themselves and craving smarter workflows without a property manager.",
+    "price": "From $30/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Rentec Direct",
+    "slug": "rentec-direct",
+    "description": "Affordable software that helps small landlords automate payments, screen tenants, and stay organized without the fuss.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/rentec-direct.jpg",
+    "target_audience_match": "Great for budget-conscious landlords who want modern tools that just work.",
+    "price": "From $15/mo",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Avail by Realtor.com",
+    "slug": "avail",
+    "description": "Free landlord toolkit for managing listings, screening tenants, collecting rent, and handling maintenance in one place.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/avail.jpg",
+    "target_audience_match": "Perfect for new or part-time landlords who want real tools without spending a dime.",
+    "price": "Free plan available",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "TurboTenant",
+    "slug": "turbotenant",
+    "description": "Manage rentals with a free core platform and optional upgrades—ideal for flexible, no-subscription landlords.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/turbotenant.jpg",
+    "target_audience_match": "Made for solo landlords who want everything in one dashboard without committing to a monthly plan.",
+    "price": "Free with optional paid tools",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Innago",
+    "slug": "innago",
+    "description": "100% free property management software that automates leases, payments, and tenant communications effortlessly.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/innago.jpg",
+    "target_audience_match": "Best for DIY landlords who want premium automation tools with zero monthly cost.",
+    "price": "Free",
+    "data-link": "pending"
+  }
+]
